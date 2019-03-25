@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "316304964470",
+    "firebase_url": "https://notificationexample-c79d6.firebaseio.com",
+    "project_id": "notificationexample-c79d6",
+    "storage_bucket": "notificationexample-c79d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316304964470:android:8e47557890ca939a",
+        "android_client_info": {
+          "package_name": "com.arkainfoteck.notificationsfinalexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316304964470-sj8vpdd21jinrinqslkknth44qmkjqh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJLChQS48mKWP7F5w1RZ3ibeOhebCyyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
